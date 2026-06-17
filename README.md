@@ -43,15 +43,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Eyzhor/Eyzhor/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Eyzhor/Eyzhor/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src=".github/workflows/nuss.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src=""  />
+  <img src="https://raw.githubusercontent.com/Eyzhor/Eyzhor/stats-output/stats.svg" height="150" alt="stats graph"  />
 </div>
+
 
 ###
 
