@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Eyzhor/Eyzhor/stats-output/dist/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Eyzhor/Eyzhor/stats-output/stats.svg?v=2" height="150" alt="stats graph"  />
 </div>
 
 
