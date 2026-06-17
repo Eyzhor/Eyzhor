@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <h4 align="center">Languages / Tools I have worked with:</h4>
