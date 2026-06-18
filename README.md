@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src=".github/workflows/nuss.jpg"  />
+  <img src=".github/workflows/grim.gif"  />
 </div>
 
 ###
